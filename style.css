@@ -48,7 +48,7 @@
 .text{
     position: absolute;
     top: 10%;
-    color: #fff;
+    color: #fff !important;
     text-align: center;
     width: 100%;
     transition: 0.5s;
