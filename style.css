@@ -59,6 +59,7 @@ h1{
     font-size: 30px;
     transition: 0.5s;
     transform: scale(0);
+    color: #fff !important;
 }
 .text p{
     margin: 0 100px;
@@ -67,9 +68,7 @@ h1{
     transition: 0.5s;
     transform: scale(2);
     opacity: 0;
-}
-.button:active{
-    border: solid #b1b3b3 2px;
+    color: #fff !important;
 }
 
 .boxImg:hover img{
