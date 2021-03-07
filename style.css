@@ -69,6 +69,15 @@ h1{
     transform: scale(2);
     opacity: 0;
     color: #fff !important;
+    color: #fff !important;
+    color: #fff !important;
+    color: #fff !important;
+    color: #fff !important;
+    color: #fff !important;
+    color: #fff !important;
+    color: #fff !important;
+    color: #fff !important;
+    color: #fff !important;
 }
 
 .boxImg:hover img{
@@ -82,6 +91,8 @@ h1{
 .boxImg:hover .text p{
     transform: scale(1);
     opacity: 1;
+    color: #fff !important;
+    color: #fff !important;
 }
 
 .boxImg:hover .container::before{
