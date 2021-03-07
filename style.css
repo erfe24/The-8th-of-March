@@ -114,3 +114,7 @@ element.style {
 Style Attribute {
     color: #fff;
 }
+
+element.style {
+    /* color: #fff; */
+}
