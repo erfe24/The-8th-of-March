@@ -98,3 +98,6 @@ h1{
 .wrapper:hover{
     overflow: hidden;
 }
+element.style {
+    color: #fff;
+}
